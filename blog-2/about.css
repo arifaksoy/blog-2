@@ -1,0 +1,44 @@
+body{
+    color: rgb(51, 51, 51);
+}
+
+
+
+.about-image{
+    background-image: url(img/personel.jpg);
+    height: 300px;
+    background-size: cover;
+    background-position: 35% 45%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    filter: brightness(120%);
+}
+
+.about-text{
+    padding: 35px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+}
+
+.about-text h1{
+    color: #333333;
+    font-size: 35px;
+    line-height: 40px;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+
+.about-text p{
+    
+    font-size: 14px;
+    margin-bottom: 20px;
+    font-family: "Lato" ,sans-serif;
+    line-height: 160%;
+}
+
+.about-text h4{
+    font-size: 17px;
+    line-height: 22px;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
